@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ingresar a la pagina de exito y seleccionar aleatoriamente cinco productos y su cantidad" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-07T21:03:26" hostname="SQABOG-SQA-4103" time="90.149">
+  <properties/>
+  <testcase name="Ingresar a la pagina de exito y seleccionar productos y cantidades" classname="Ingresar a la pagina de exito y seleccionar aleatoriamente cinco productos y su cantidad" time="90.149"/>
+  <system-out><![CDATA[Nro de productos visibles: 12
+Elemento ---> [[ChromeDriver: chrome on WINDOWS (ba815e3096cbe8fa5bfea45f96c9e6b6)] -> xpath: //div[contains(@class,'vtex-flex-layout-0-x-flexColChild pb0')]//span[contains(@class,'w-100 h-100')]]
+Este es el nombre del producto ---> [Cabecero Entero Bogle Cama Doble 140 X 120 Negro]
+Este es el precio del producto ---> [$ 349.900]
+Esta es la cantidad ---> [3.00 un]
+Elemento ---> [[ChromeDriver: chrome on WINDOWS (ba815e3096cbe8fa5bfea45f96c9e6b6)] -> xpath: //div[contains(@class,'vtex-flex-layout-0-x-flexColChild pb0')]//span[contains(@class,'w-100 h-100')]]
+Este es el nombre del producto ---> [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil]
+Este es el precio del producto ---> [$ 349.900, $ 419.900]
+Esta es la cantidad ---> [3.00 un, 2.00 un]
+Elemento ---> [[ChromeDriver: chrome on WINDOWS (ba815e3096cbe8fa5bfea45f96c9e6b6)] -> xpath: //div[contains(@class,'vtex-flex-layout-0-x-flexColChild pb0')]//span[contains(@class,'w-100 h-100')]]
+Este es el nombre del producto ---> [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil, Cabecero Tapizado Tela Base Cama Queen Rombos Marfil]
+Este es el precio del producto ---> [$ 349.900, $ 419.900, $ 329.900]
+Esta es la cantidad ---> [3.00 un, 2.00 un, 1.00 un]
+Elemento ---> [[ChromeDriver: chrome on WINDOWS (ba815e3096cbe8fa5bfea45f96c9e6b6)] -> xpath: //div[contains(@class,'vtex-flex-layout-0-x-flexColChild pb0')]//span[contains(@class,'w-100 h-100')]]
+Este es el nombre del producto ---> [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil, Cabecero Tapizado Tela Base Cama Queen Rombos Marfil, Cabecero Industrial Rovere Para Cama De 140 X 190]
+Este es el precio del producto ---> [$ 349.900, $ 419.900, $ 329.900, $ 223.000]
+Esta es la cantidad ---> [3.00 un, 2.00 un, 1.00 un, 3.00 un]
+Elemento ---> [[ChromeDriver: chrome on WINDOWS (ba815e3096cbe8fa5bfea45f96c9e6b6)] -> xpath: //div[contains(@class,'vtex-flex-layout-0-x-flexColChild pb0')]//span[contains(@class,'w-100 h-100')]]
+Este es el nombre del producto ---> [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil, Cabecero Tapizado Tela Base Cama Queen Rombos Marfil, Cabecero Industrial Rovere Para Cama De 140 X 190, Cabecero Para Cama Doble Dublin Gris]
+Este es el precio del producto ---> [$ 349.900, $ 419.900, $ 329.900, $ 223.000, $ 204.900]
+Esta es la cantidad ---> [3.00 un, 2.00 un, 1.00 un, 3.00 un, 6.00 un]
+IMPRIMO N PRODUCTO: -----> Cabecero Entero Bogle Cama Doble 140 X 120 Negro
+IMPRIMO LOS NOMBRES DE P ---<: [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil, Cabecero Tapizado Tela Base Cama Queen Rombos Marfil, Cabecero Industrial Rovere Para Cama De 140 X 190, Cabecero Para Cama Doble Dublin Gris]
+VALIDE LOS NOMBRES: 
+IMPRIMO N PRODUCTO: -----> Cabecero Paneles Cama Doble Marfil
+IMPRIMO LOS NOMBRES DE P ---<: [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil, Cabecero Tapizado Tela Base Cama Queen Rombos Marfil, Cabecero Industrial Rovere Para Cama De 140 X 190, Cabecero Para Cama Doble Dublin Gris]
+VALIDE LOS NOMBRES: 
+IMPRIMO N PRODUCTO: -----> Cabecero Tapizado Tela Base Cama Queen Rombos Marfil
+IMPRIMO LOS NOMBRES DE P ---<: [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil, Cabecero Tapizado Tela Base Cama Queen Rombos Marfil, Cabecero Industrial Rovere Para Cama De 140 X 190, Cabecero Para Cama Doble Dublin Gris]
+VALIDE LOS NOMBRES: 
+IMPRIMO N PRODUCTO: -----> Cabecero Industrial Rovere Para Cama De 140 X 190
+IMPRIMO LOS NOMBRES DE P ---<: [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil, Cabecero Tapizado Tela Base Cama Queen Rombos Marfil, Cabecero Industrial Rovere Para Cama De 140 X 190, Cabecero Para Cama Doble Dublin Gris]
+VALIDE LOS NOMBRES: 
+IMPRIMO N PRODUCTO: -----> Cabecero Para Cama Doble Dublin Gris
+IMPRIMO LOS NOMBRES DE P ---<: [Cabecero Entero Bogle Cama Doble 140 X 120 Negro, Cabecero Paneles Cama Doble Marfil, Cabecero Tapizado Tela Base Cama Queen Rombos Marfil, Cabecero Industrial Rovere Para Cama De 140 X 190, Cabecero Para Cama Doble Dublin Gris]
+VALIDE LOS NOMBRES: 
+]]></system-out>
+  <system-err><![CDATA[may 07, 2023 4:03:26 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized --disable..., goog:chromeOptions: {args: [--start-maximized, --disable-notifications, --disable-popup-blocking, --disable-infobars, --no-sandbox, --test-type, --ignore-certificate-errors, --incognito, --disable-gpu], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: }
+Starting ChromeDriver 112.0.5615.49 (bd2a7bcb881c11e8cfe3078709382934e3916914-refs/branch-heads/5615@{#936}) on port 45572
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1683493409.586][WARNING]: This version of ChromeDriver has not been tested with Chrome version 113.
+may 07, 2023 4:03:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Ingresar a la pagina de exito y seleccionar productos y cantidades
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

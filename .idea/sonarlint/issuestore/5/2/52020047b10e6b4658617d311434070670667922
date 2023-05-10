@@ -1,0 +1,29 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ü‹İ
+9
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½–ş©
+D
+java:S5413(")Verify that "remove()" is used correctly.(£‘šşÿÿÿÿ
+[
+java:S16593"EDeclare "cantidad" and all following declarations on a separate line.(åü¡Í
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÉÇ‘™
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(æš»Ù
+N	java:S106."9Replace this use of System.out or System.err by a logger.(‡Ú×ğ
+E
+java:S11974"*Move the array designators [] to the type.(Œ÷âûÿÿÿÿ
+?
+java:S21405")Use "java.util.Random.nextInt()" instead.(²Ÿäş
+?
+java:S21407")Use "java.util.Random.nextInt()" instead.(²Ÿäş
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(»Ô£¯
+M	java:S106Z"9Replace this use of System.out or System.err by a logger.(»ä$
+S	java:S106["9Replace this use of System.out or System.err by a logger.(°÷şàúÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(İƒÁÚ
+E	java:S108_")Either remove or fill this block of code.(”ı¾8¾ªê¿ÿ0
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(Ú¢…ò
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(°ìÉáüÿÿÿÿ
+K
+java:S1751o"5Remove this "break" statement or make it conditional.(›ûä·
+A
+java:S5960Y"+Remove this assertion from production code.(·’·Ù
